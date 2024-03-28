@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+
+#Profile {
+  background-color: rgb(35, 35, 35);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100p;
+  height: 600px;
+  border-radius: 10px;
+}
+
+
+
+#Profile-img {
+  display: block;
+  width: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  align-self: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+
+
+}
+
+#address {
+  color: white;
+  text-align: center;
+
+
+}
+
+.location {
+  color: yellowgreen;
+}
+
+.nav-btn {
+  display: block;
+  color: white;
+  background-color: rgb(87, 87, 87);
+  margin: 20px 40px;
+  font-size: medium;
+  padding: 12px 5px;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+}
